@@ -1,5 +1,9 @@
 # 🏏 IPL Data Analysis Dashboard
 
+## 📷 Dashboard Preview
+
+![Overview](screenshots/Overview.png)
+
 ## 📌 Project Overview
 
 This project showcases an interactive IPL Data Analysis Dashboard built using Power BI to analyze historical IPL match and ball-by-ball data. The dashboard provides insights into batting performance, bowling performance, venue trends, toss impact, and overall team performance through interactive visualizations.
@@ -43,10 +47,6 @@ The objective of this project is to transform raw cricket data into meaningful v
 ---
 
 ## 📷 Dashboard Screenshots
-
-### Overview
-
-![Overview](screenshots/Overview.png)
 
 ### Batting Analysis
 
