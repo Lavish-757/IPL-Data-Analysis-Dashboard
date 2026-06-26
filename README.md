@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive IPL Data Analysis Dashboard developed using Power BI. The dashboard analyzes historical IPL match and ball-by-ball data to uncover insights related to batting performance, bowling performance, fielding contributions, toss decisions, venue trends, and overall match statistics.
+This project showcases an interactive IPL Data Analysis Dashboard built using Power BI to analyze historical IPL match and ball-by-ball data. The dashboard provides insights into batting performance, bowling performance, venue trends, toss impact, and overall team performance through interactive visualizations.
 
-The objective of this project is to transform raw cricket data into meaningful visual insights that support data-driven decision-making and demonstrate practical data analysis skills.
+The objective of this project is to transform raw cricket data into meaningful visual insights that support data-driven decision-making while demonstrating practical Power BI, DAX, data modeling, and dashboard design skills.
 
 ---
 
